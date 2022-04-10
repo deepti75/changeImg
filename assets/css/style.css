@@ -1,0 +1,49 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+}
+.all div{
+  height:300px;
+  width:300px;
+  margin-bottom: 25px;
+}
+.pink div{
+    background-image: url(../images/pink4.jpg);
+    background-size: cover;
+    height:300px;
+    width:300px;
+}
+.red  div{
+  background-image: url(../images/red4.jpg);
+  background-size: cover;
+  height:300px;
+  width:300px;
+}
+.white div{
+  background-image: url(../images/white1.jpg);
+  background-size: cover;
+  height:300px;
+  width:300px;
+}
+.orange div{
+  background-image: url(../images/orang1.jpg);
+  background-size: cover;
+   height:300px;
+  width:300px;
+}
+.yellow div{
+  background-image: url(../images/yellow3.jpg);
+  background-size: cover;
+   height:300px;
+  width:300px;
+}
+.bluevoilet div{
+  background-image: url(../images/bluevoilet3.jpg);
+  background-size: cover;
+   height:300px;
+  width:300px;
+}
